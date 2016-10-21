@@ -1,3 +1,7 @@
+Could we borrow this thread for your project for discussion?
+
+
+
 SharpDX Tutorial
 ============
 Created By Roberto Nacchia (RobyDX)
